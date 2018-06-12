@@ -1,0 +1,1 @@
+[iTerm 개발환경 세팅](http://hjh5488.tistory.com/2)
