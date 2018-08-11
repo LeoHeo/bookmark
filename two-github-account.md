@@ -33,7 +33,7 @@ Host github.com-{username}
     IdentityFile ~/.ssh/id_rsa_{username}
 ```
 
-## git clone를 할떼 주소에 username을 추가한다.
+## git clone를 할때 주소에 username을 추가한다.
 
 - 기본적으로 clone 할때는 git@github.com:LeoHeo/bookmark.git 한다.
 - 2번째 계정으로 clone을 할때는 아래같이 해줘야 한다.
