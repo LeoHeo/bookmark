@@ -4,5 +4,5 @@
 
 ```shell
 # ln -f -s [바꾸는 파일 경로] [원래 symlink가 있는 경로]
-ln -f -s ../Cellar/terraform/0.11.11/terraform terraform
+$ ln -f -s ../Cellar/terraform/0.11.11/terraform terraform
 ```
